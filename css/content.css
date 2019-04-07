@@ -1,0 +1,9 @@
+/* CSS Document */
+.label{border-bottom:1px dotted #ddd;}
+.label h3{height:40px;line-height:40px;font-size:14px;padding-left:40px;}
+#outer{width:600px;height:420px;border:4px dotted #ddd;padding:20px;margin:5px auto;background:url(../images/01.jpg) no-repeat 40px 20px;background-size:550px 420px;}
+#title{color:#fff;font-szie；28px;font-family:"微軟雅黑";padding:10px 50px;text-align:right;}
+#post{width:150px;height:100px;margin:190px 0px 0px 480px;}
+span#sp1{font-size:22px;font-weight:bold;margin-left:20px;font-variant:small-caps;background:red;color:#fff;padding:5px;}
+span#sp2{font-szie:12px;border-bottom:1px solid red;color:red;padding:5px;border-bottom:1px solid red;}
+

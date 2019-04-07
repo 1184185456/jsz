@@ -1,0 +1,13 @@
+/* CSS Document */
+.left{width:250px;height；300px;border-riht:1px dotted #ddd;float:left;}
+dl{width:150px;height:280px;margin:10px auto;}
+dt{width:150px;height:180px;background:url(../images/14.jpg) no-repeat center center;background-size:250px 100px;}
+dd{height:30px;line-height:30px;background:url(../images/15.jpg) no-repeat 10px center;padding-left:50px;background-size:25px 20px;}
+.right{width:750px;min-height:300px;float:right;}
+.label{border-bottom:1px dotted #ddd;}
+.label h3{height:40px;line-height:40px;font-size:14px;padding-left:40px;}
+.details ul{padding:30px;}
+.details ul li{height:35px;line-height:35px;border-bottom:1px dotted #ccc;padding-left:40px;}
+.page{padding:0 50px;text-align:right;height:20px;line-height:20px;font-size:14px;}
+.page span{margin-left:30px;}
+

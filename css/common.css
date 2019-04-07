@@ -1,0 +1,28 @@
+/* CSS Document */
+/*重置浏览器的默认效果样式*/
+body,ul,li,ol,dl,dt,dd,p,h1,h2,h3,h4,h5,h6,form,img{padding:0;margin:0;list-style:none;}
+/*全局控制*/
+body{font-size:12px;font-family:Arial,"宋体";color:#333;}
+.header,.nav,.main,.footer{width:1000px;margin:0px auto;}
+/*链接默认状态*/
+a{color:#222;text-decoration:none;}
+/*头部样式设置*/
+.header{height:200px;background:url(../images/02.jpg) no-repeat;background-size:1000px 200px;}
+.header h1{font-size:48px;font-family:"微软雅黑";color:red;font-weight:bold;margin-left:100px;padding-top:30px;text-shadow:1px 1px 0 #fff;}
+.header h2{font-size:24px;font-family:"微软雅黑";color:#fff;font-weight:bold;margin:20px 0 0 100px;padding-top:30px;text-shadow:1px 1px 0 red;text-trasform:uppercase;letter-spacing:2px;word-spacing:20px;}
+/*导航列表设置*/
+.nav{height:40px;}
+.nav ul li{width:200px;float:left;height:40px;line-height:40px;text-align:center;}
+.nav ul li a{display:block;background:#f35049;color:#fff;font-size:18px;font-weight:bold;letter-spacine:8px;}
+.nav ul li a:hover{background:#fff;color:#f35049;font-size:24px;}
+.nav ul li a.home{background:#f35049 url(../images/03.jpg) no-repeat 5px center;color:#FFF;}
+.nav ul li a.home:hover{background:#fff url(../images/04.jpg) no-repeat 5px center;color:#f35049;}
+div.link{width:1000px;border-bottom:1px solid #ddd;}
+.link span{display:inline-block;width:150px;height:50px;margin:5px;}
+.link .two{background:url(../images/05.jpg) no-repeat;background-size:150px 60px;}
+.link .three{background:url(../images/06.jpg) no-repeat;background-size:150px 60px;}
+.link .four{background:url(../images/07.jpg) no-repeat;background-size:150px 60px;}
+.link .five{background:url(../images/08.jpg) no-repeat;background-size:150px 60px;}
+.link .six{background:url(../images/09.jpg) no-repeat;background-size:150px 60px;}
+.link .seven{background:url(../images/10.jpg) no-repeat;background-size:150px 60px;}
+.copyright p{text-align:center;}

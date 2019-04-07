@@ -1,0 +1,24 @@
+/* CSS Document */
+.tab{width:450px;height:300px;margin:20px;float:left;}
+.news{width:490px;height:300px;margin:20px 20px 20px 0;float:left;}
+.info{clear:both;padding:10px;}
+/*tab的标题与内容样式*/
+.tab{width:450px;height:300px;margin；20px;float:left;}
+.tab input{backgroudn:#ddd;border:none;width:80px;height:30px;line-height:30px;}
+.tab input acive{background:#fff;border:1px solid red;border-bottom:none;position:relative;bottom:-1px;width:85px;height:35px;}
+.tab div{border:1px solid rec;height:230px;width:400px;display:none;border-radius:0 10px 10px 10px;box-shadow:3px 3px 6px #666;padding:10px;}
+/*内容框内的样式处理*/
+p#p1{border-left:100px solid #f35049;padding-left:200px;margin-bottom:25px;}
+p#p2{border-left:150px solid #f35049;padding-left:150px;margin-bottom:25px;}
+p#p3{border-left:180px solid #f35049;padding-left:120px;margin-bottom:25px;}
+p#p4{border-left:210px solid #f35049;padding-left:90px;}
+/*新闻*/
+.news{width:490px;height:300px;margin:20px 20px 20px 0;float:left;}
+.news h3{display:line-block; width:150px;height:40px;line-height:40px;padding-left:50px;}
+.news strong{display:inline-block;width:270px;text-align:right;}
+.news ul li{height:35px;border-bottom:1px dotted #ddd;}
+.news ul li a{display:inline-block;width:380px;height:35px;line-height:35px;text-decoration:none;padding-left:20px;color:#333;}
+/*首页碣石简介*/
+.info{clear:both;padding:10px;}
+.info h3{border-left:10px solid #f35049;padding:5px;border-bottom:1px solid #f35049;}
+.info a{color:#f35049;}
